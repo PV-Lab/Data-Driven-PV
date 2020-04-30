@@ -12,7 +12,7 @@ This work was a part of a NeurIPS Climate Change AI Workshop 2020 spotlight talk
 
 
 ## Usage
-
+Run the code to produce each Figure.
 
 
 ## Authors
@@ -32,11 +32,11 @@ This work is under an Apache 2.0 License and data policies of Nature Partner Jou
 
 ## Citation
 
-@misc{oviedo2020bridging,
-    title={Bridging the gap between photovoltaics R&D and manufacturing with data-driven optimization},
-    author={Felipe Oviedo and Zekun Ren and Xue Hansong and Siyu Isaac Parker Tian and Kaicheng Zhang and Mariya Layurova and Thomas Heumueller and Ning Li and Erik Birgersson and Shijing Sun and Benji Mayurama and Ian Marius Peters and Christoph J. Brabec and John Fisher III and Tonio Buonassisi},
-    year={2020},
-    eprint={2004.13599},
-    archivePrefix={arXiv},
-    primaryClass={physics.app-ph}
-}
+    @misc{oviedo2020bridging,
+        title={Bridging the gap between photovoltaics R&D and manufacturing with data-driven optimization},
+        author={Felipe Oviedo and Zekun Ren and Xue Hansong and Siyu Isaac Parker Tian and Kaicheng Zhang and Mariya Layurova and Thomas Heumueller and Ning Li and Erik Birgersson and Shijing Sun and Benji Mayurama and Ian Marius Peters and Christoph J. Brabec and John Fisher III and Tonio Buonassisi},
+        year={2020},
+        eprint={2004.13599},
+        archivePrefix={arXiv},
+        primaryClass={physics.app-ph}
+    }
