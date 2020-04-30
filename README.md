@@ -4,7 +4,7 @@ Data-Driven-PV
 ## Description
 
 
-This repository contains the code of the data-driven PV optimization frramework, describe in the perspective (under peer-review):
+This repository contains the code of the data-driven PV optimization frramework, described in the following perspective (under peer-review):
 
 "**Oviedo, F., Ren, Z., ... , John Fisher III, Buonassisi, T. (2020). Bridging the gap between photovoltaics R&D and manufacturing with data-driven optimization"  Link: [https://arxiv.org/abs/2004.13599](https://arxiv.org/abs/2004.13599)**
 
